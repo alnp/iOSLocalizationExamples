@@ -1,0 +1,9 @@
+/* 
+  Neutral.strings
+  L10n101
+
+  Created by Alessandra Pereira on 29/05/20.
+  Copyright © 2020 Alessandra Pereira. All rights reserved.
+*/
+"saudar" = "Hi, everyone!";
+"despedir" = "Bye, everyone!";
